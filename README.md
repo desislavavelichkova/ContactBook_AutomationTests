@@ -1,4 +1,4 @@
-# QA Automation Exam: “Contact Book” - 09 Jun 2022
+# QA Automation Exam: “Contact Book” - 19 Jun 2022
 
 ## - Automated Appium UI Tests 
     •	Start the app.
